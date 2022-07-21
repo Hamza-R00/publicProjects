@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "M3 Advisory",
+    "slug": "M3-Advisory",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+     
+
+      "config": {
+        "googleMaps":
+         {
+          "apiKey":"AIzaSyCkUCkbwUkSAKEf2TJVwwo7thpvGbc14j8"
+      }
+
+    },
+    "package":"com.m3_advisory"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+    
+    
+       
+     
+      
+    
+    
+
+  }
+}
