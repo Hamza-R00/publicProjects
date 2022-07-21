@@ -1,0 +1,8 @@
+Token Story !
+
+giving token to FE on Register.FR saves in local storage
+
+if token is not in login then again generating a token for login and giving it to user,
+FE saves in local storage
+
+in protected routes in BE 
